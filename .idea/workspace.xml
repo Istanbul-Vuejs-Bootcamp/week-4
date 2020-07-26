@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0bd66daa-4966-4439-a5a5-5aa5d4f88fbe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectId" id="1f8vFJYD5lmwJXl6wrGIhUo7dNZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/nested-router-example/src/views/admin" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/nested-router-example/src/views/admin" />
+      <recent name="$PROJECT_DIR$/vue-router-into/src/components" />
+      <recent name="$PROJECT_DIR$/component-example/src/components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vue-router-into/src/views" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bd66daa-4966-4439-a5a5-5aa5d4f88fbe" name="Default Changelist" comment="" />
+      <created>1595612428860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595612428860</updated>
+      <workItem from="1595612431643" duration="19514000" />
+      <workItem from="1595680410907" duration="815000" />
+      <workItem from="1595746229132" duration="15291000" />
+    </task>
+    <task id="LOCAL-00001" summary="transition examples">
+      <created>1595668918025</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595668918025</updated>
+    </task>
+    <task id="LOCAL-00002" summary="directive examples">
+      <created>1595668980318</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595668980318</updated>
+    </task>
+    <task id="LOCAL-00003" summary="dynamic component import&#10;global component import&#10;keep-alive">
+      <created>1595671994258</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595671994258</updated>
+    </task>
+    <task id="LOCAL-00004" summary="vue router intro">
+      <created>1595678594288</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595678594288</updated>
+    </task>
+    <task id="LOCAL-00005" summary="vue-router examples">
+      <created>1595767266149</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595767266149</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="transition examples" />
+    <MESSAGE value="directive examples" />
+    <MESSAGE value="dynamic component import&#10;global component import&#10;keep-alive" />
+    <MESSAGE value="vue router intro" />
+    <MESSAGE value="vue-router examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="vue-router examples" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="43" key="#Project_Structure" timestamp="1595612436306">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="208" y="43" key="#Project_Structure/0.23.1440.877/1440.-127.1680.963@0.23.1440.877" timestamp="1595612436306" />
+    <state x="458" y="197" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595753216651">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="197" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900/1440.-150.1680.1050@0.0.1440.900" timestamp="1595753216651" />
+    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877/1440.-127.1680.963@0.23.1440.877" timestamp="1595613026725" />
+    <state x="0" y="9" key="CommitChangelistDialog2" timestamp="1595767265936">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="9" key="CommitChangelistDialog2/0.0.1440.900/1440.-150.1680.1050@0.0.1440.900" timestamp="1595767265936" />
+    <state x="306" y="196" key="Vcs.Push.Dialog.v2" timestamp="1595767269105">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="306" y="196" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-150.1680.1050@0.0.1440.900" timestamp="1595767269105" />
+    <state x="306" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.816/1440.-127.1680.1027@0.23.1440.816" timestamp="1595681087290" />
+    <state x="179" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595672012817">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="179" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/1440.-150.1680.1050@0.0.1440.900" timestamp="1595672012817" />
+    <state x="-10" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1595764447452">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="-10" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.-150.1680.1050@0.0.1440.900" timestamp="1595764447452" />
+  </component>
+</project>
